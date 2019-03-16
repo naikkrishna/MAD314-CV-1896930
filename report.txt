@@ -16,12 +16,13 @@ $ git clone https://github.com/naikkrishna/MAD314-CV-1896930.git
 ->TO add this file on git
 
 ->to push this file:
-   --> $ git add report.txt
-   --> $ git commit -m "report is edited"       //I want to commit this file to the local repository using this command.
-   --> $ git fetch                              // Fetch information using this command.
-   --> $ git push                               // This command is used to publish files to git repository. 
--> To add krishna resume.pdf
-   --> $ git add krishna resume.pdf
-   --> $ git commit -m "Cv is uploaded"
-   --> $ git fetch
-   --> $ git push 
+   --> $ git add report.txt                        //This command will add files to the staging area.
+   --> $ git commit -m "report is edited"          //I want to commit this file to the local repository using this command.
+   --> $ git fetch                                 // Fetch information using this command.
+   --> $ git push                                  // This command is used to publish files to git repository.
+
+-> To add krishna resume.pdf  
+   --> $ git add krishna resume.pdf                   //This command will add files to the staging area.
+   --> $ git commit -m "Cv is uploaded"               //I want to commit this file to the local repository using this command.
+   --> $ git fetch                                    // Fetch information using this command.
+   --> $ git push                                     // This command is used to publish files to git repository.
